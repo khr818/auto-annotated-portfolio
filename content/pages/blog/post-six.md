@@ -4,7 +4,7 @@ title: RAMYA TRAVELS
 colors: colors-a
 date: '2024-09-20'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: WE ARE RAMYA
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
