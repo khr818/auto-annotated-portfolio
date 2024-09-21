@@ -4,7 +4,7 @@ title: RAMYA TRAVELS
 colors: colors-a
 date: '2024-09-20'
 author: content/data/team/doris-soto.json
-excerpt: 'OUR OW COMPANY , WANT IT CONTACT US!!'
+excerpt: 'OUR OWN COMPANY , WANT IT CONTACT US!!'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
