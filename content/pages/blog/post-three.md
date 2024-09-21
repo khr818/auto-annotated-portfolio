@@ -2,7 +2,7 @@
 type: PostLayout
 title: "HAPPY BIRTHDAY MHDPA(KM)2\U0001F44F\U0001F382\U0001F382"
 colors: colors-b
-date: '2024-06-01'
+date: '2024-07-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
