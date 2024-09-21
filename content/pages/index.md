@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: MHDPA(KM)2 by TAI
     subtitle: "this is our info - we are mhdpa(km)square,a group of TAI groups. I 'm\_ DOC SAYING TO YOU"
     styles:
       self:
