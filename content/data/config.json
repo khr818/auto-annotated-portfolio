@@ -65,7 +65,7 @@
             {
                 "type": "Link",
                 "label": "INFO WEB",
-                "url": "mhdapkm",
+                "url": "mhdapkm.netlify.app",
                 "altText": "Netlify templates"
             }
         ],
