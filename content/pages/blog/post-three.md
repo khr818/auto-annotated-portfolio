@@ -4,7 +4,7 @@ title: "HAPPY BIRTHDAY MHDPA(KM)2\U0001F44F\U0001F382\U0001F382"
 colors: colors-b
 date: '2024-09-20'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: HAPPY BIRTHDAY!!
 featuredImage:
   type: ImageBlock
   altText: Post thumbnail image
