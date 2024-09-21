@@ -122,7 +122,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/52.jpg
-      altText: altText of the image
+      altText: 'BOSS OF DOC '
       caption: Caption of the image
       elementId: ''
   - type: DividerSection
