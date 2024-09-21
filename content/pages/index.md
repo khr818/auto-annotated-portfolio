@@ -155,7 +155,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: SHAANTHI SCHOOL
           isRequired: false
           width: full
           type: CheckboxFormControl
