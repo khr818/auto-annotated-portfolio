@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: MHDPA(KM)2
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: MHDPA(KM)2 by TAI
+    subtitle: "this is our info - we are mhdpa(km)square,a group of TAI groups. I 'm\_ DOC SAYING TO YOU"
     styles:
       self:
         height: auto
@@ -61,7 +56,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -84,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -97,7 +91,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
@@ -130,7 +123,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: WANT TO JOIN OUR CLUB??
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -150,21 +143,14 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           hideLabel: true
-          placeholder: Email
+          placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: SHAANTHI SCHOOL
           isRequired: false
           width: full
           type: CheckboxFormControl
