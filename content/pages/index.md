@@ -150,7 +150,7 @@ sections:
         - name: email
           label: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           hideLabel: true
-          placeholder: Email
+          placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           isRequired: true
           width: 1/2
           type: EmailFormControl
