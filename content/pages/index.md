@@ -148,7 +148,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           hideLabel: true
           placeholder: Email
           isRequired: true
