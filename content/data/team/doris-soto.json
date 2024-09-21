@@ -2,10 +2,5 @@
     "type": "Person",
     "firstName": "DOC",
     "lastName": "",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    },
     "role": "DIRECTOR"
 }
