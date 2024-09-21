@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: MHDPA(KM)2
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
