@@ -142,7 +142,7 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - name: phone number
+        - name: email
           label: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
           hideLabel: true
           placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
