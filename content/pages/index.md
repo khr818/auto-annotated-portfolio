@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: HI I AM A WEB DEVELOPER AT 12 IM THE DOC
-    subtitle: I AM FOUNDER OF TAI AND MHDPA(KM)2
+    subtitle: >-
+      I AM FOUNDER OF TAI AND MHDPA(KM)2 I AM K HARSHAN RAGHAV THIS IS MY
+      WEBSITE WELCOME!!
     styles:
       self:
         height: auto
