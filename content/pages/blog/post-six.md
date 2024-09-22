@@ -8,7 +8,7 @@ excerpt: A WANTED TRIP FOR SO LONG TIME
 featuredImage:
   type: ImageBlock
   url: /images/DUBAI.jpeg
-  altText: Post thumbnail image
+  altText: Post thumbnail image DUBAI
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
