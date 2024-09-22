@@ -47,7 +47,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "",
                 "url": "/blog",
                 "altText": ""
             },
