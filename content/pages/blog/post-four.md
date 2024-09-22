@@ -4,7 +4,7 @@ title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
 date: '2024-10-13'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: "ONE LAST TIME IN ABU DHABI\U0001F44B"
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
