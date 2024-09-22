@@ -4,10 +4,7 @@ title: 'A Review of Cat Kid Comic Club: Books 1-3'
 colors: colors-a
 date: '2024-09-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: A REVIEW OF CAT KID COMIC CLUB BY DAV PILKEY
 media:
   type: ImageBlock
   url: /images/bg1.jpg
