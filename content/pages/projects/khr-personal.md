@@ -3,9 +3,7 @@ type: ProjectLayout
 title: KHR PERSONAL PROJECT
 date: '2024-09-22'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: this is my new project khr personal
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
@@ -28,3 +26,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+yes as this is my new project "KHR PERSONAL WEB" AND WEBSITE LINK WILL BE"khrpersonal.netlify.app/" so as this projecrt come on i am going to change mhdpa to khrp wait for my change bye!
