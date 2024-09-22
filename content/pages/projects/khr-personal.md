@@ -26,3 +26,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+yes as this is my new project "KHR PERSONAL WEB" AND WEBSITE LINK WILL BE"khrpersonal.netlify.app/" so as this projecrt come on i am going to change mhdpa to khrp wait for my change bye!
