@@ -1,6 +1,14 @@
 {
     "type": "Person",
-    "firstName": "DOC",
+    "firstName": "HARSHAN RAGHAV K",
     "lastName": "",
-    "role": "DIRECTOR"
+    "role": "FOUNDER",
+    "bio": "HARSHAN RAGHAV K \n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/02 3.jpg",
+        "altText": "K H R",
+        "caption": "A POTRAIT OF KHR",
+        "elementId": ""
+    }
 }
