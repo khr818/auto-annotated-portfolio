@@ -7,7 +7,7 @@ client: HARSHAN RAGHAV K
 description: IT IS HARD TO IMAGINE THAT THIS IS OUR NEW PROJECT TAI..
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Absolute_Infinity.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
