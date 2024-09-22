@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: "ONE LAST TIME IN ABU DHABI\U0001F44B"
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/ABUD.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
