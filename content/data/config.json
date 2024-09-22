@@ -17,7 +17,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Youtube",
+                "altText": "Github",
                 "label": "GIT KHR",
                 "url": "https://github.com/khr818",
                 "icon": "github"
