@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'STARTING ME '
+title: "HAPPY BIRTHDAY MOM\U0001F382\U0001F382\U0001F389\U0001F389"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
