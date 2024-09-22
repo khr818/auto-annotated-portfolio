@@ -7,7 +7,7 @@ client: Awesome client
 description: A REVIEW OF CAT KID COMIC CLUB BY DAV PILKEY
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/91l0ioQY6oL._SY522_.jpg
   altText: Project image
 ---
 **av Pilkey's** *Cat Kid Comic Club* series has quickly become a favorite among young readers. These graphic novels, filled with humor, heart, and a touch of the absurd, follow the adventures of a group of quirky kids who form a comic book club.
