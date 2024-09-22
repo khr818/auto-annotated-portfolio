@@ -2,7 +2,7 @@
 type: PostLayout
 title: AT DUBAI!!
 colors: colors-a
-date: '2024-06-10'
+date: '2024-10-10'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
