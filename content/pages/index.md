@@ -145,7 +145,7 @@ sections:
         - name: email
           label: ONLY SHAANTHI SCHOOLS GIVE YOUR email
           hideLabel: true
-          placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR CONTACT NUMBER
+          placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR email
           isRequired: true
           width: 1/2
           type: EmailFormControl
