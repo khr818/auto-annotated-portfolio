@@ -125,7 +125,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: WANT TO JOIN OUR CLUB??
+    title: TO CONTACT ME OR JOIN TAI-GROUP
     form:
       type: FormBlock
       elementId: sign-up-form
