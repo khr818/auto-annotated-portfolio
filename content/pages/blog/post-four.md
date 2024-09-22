@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "Sharing my wisdom with the world \U0001F30E"
+title: "BYE ABU DHABI \U0001F30E"
 colors: colors-a
 date: '2024-10-13'
 author: content/data/team/doris-soto.json
