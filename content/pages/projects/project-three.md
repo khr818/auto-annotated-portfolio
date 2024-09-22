@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: WE ARE TAI 'S
 colors: colors-a
-date: '2022-01-22'
+date: '2024-09-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
