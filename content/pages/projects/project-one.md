@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'A Review of Cat Kid Comic Club: Books 1-3'
 colors: colors-a
-date: '2021-10-15'
+date: '2024-09-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
