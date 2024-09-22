@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: MHDPA(KM)2
+title: KHR PERSONAL
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
