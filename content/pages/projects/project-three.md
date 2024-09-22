@@ -4,7 +4,7 @@ title: WE ARE TAI 'S
 colors: colors-a
 date: '2024-09-22'
 client: HARSHAN RAGHAV K
-description: IT IS HARD TO IMAGINE THAT THIS IS OUR NEW PROJECT
+description: IT IS HARD TO IMAGINE THAT THIS IS OUR NEW PROJECT TAI..
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
