@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: the new change
+title: 'A Review of Cat Kid Comic Club: Books 1-3'
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
