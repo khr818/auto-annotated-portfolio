@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: YEAH! GO
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/DUBAI.jpeg
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
