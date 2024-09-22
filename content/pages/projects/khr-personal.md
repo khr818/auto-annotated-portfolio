@@ -3,9 +3,7 @@ type: ProjectLayout
 title: KHR PERSONAL PROJECT
 date: '2024-09-22'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: this is my new project khr personal
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
