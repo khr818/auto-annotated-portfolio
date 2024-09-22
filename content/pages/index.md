@@ -148,7 +148,7 @@ sections:
           label: ONLY SHAANTHI SCHOOLS GIVE YOUR email
           hideLabel: true
           placeholder: ONLY SHAANTHI SCHOOLS GIVE YOUR email
-          isRequired: true
+          isRequired: false
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
