@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: RAMYA TRAVELS
+title: TRIP TO DUBAI
 colors: colors-a
 date: '2024-09-20'
 author: content/data/team/doris-soto.json
