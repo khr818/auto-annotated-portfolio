@@ -13,13 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
+    text: |
       # I AM K HARSHAN RAGHAV STUDYING S7 C IN SHAANTHI SCHOOLS JNR POLLACHI
 
-      MY PHONE NUMBER IS - +91 7358102784,+97 8903832784
+      MY PHONE NUMBER IS - +91 7358102784,+91 8903832784
 
       I AM VERY INTRESTED IN CODING ,WEB DEVELOPING AND ALL
-
     styles:
       self:
         height: auto
