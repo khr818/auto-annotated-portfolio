@@ -14,7 +14,7 @@ media:
   url: /images/Absolute_Infinity.webp
   altText: Project image
 ---
-THIS IS MY NEW PROJECT tai.netlify.app/ and khrpersonal.netlify.app/
+THIS IS MY NEW PROJECT tai-groups.netlify.app/ and khrpersonal.netlify.app/
 
 tai has the things THAT OUR NEW PROJECTAS IN TAI AND SAY WHAT WE ARE HAVING YOU AS A MEMBER IN TAI
 
