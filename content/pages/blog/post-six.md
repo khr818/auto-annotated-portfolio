@@ -104,7 +104,7 @@ bottomSections:
 media:
   type: ImageBlock
   url: /images/DUBAI.jpeg
-  altText: altText of the image
+  altText: DUBAI
   caption: Caption of the image
   elementId: ''
 ---
