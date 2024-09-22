@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: HI I AM A WEB DEVELOPER AT 12 IM THE DOC
-    subtitle: "this is our info - we are mhdpa(km)square,a group of TAI groups. I 'm\_ DOC SAYING TO YOU"
+    subtitle: I AM FOUNDER OF TAI AND MHDPA(KM)2
     styles:
       self:
         height: auto
