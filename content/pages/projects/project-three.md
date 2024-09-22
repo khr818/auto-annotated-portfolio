@@ -4,10 +4,7 @@ title: WE ARE TAI 'S
 colors: colors-a
 date: '2024-09-22'
 client: HARSHAN RAGHAV K
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: IT IS HARD TO IMAGINE THAT THIS IS OUR NEW PROJECT
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
