@@ -2,7 +2,7 @@
 type: PostLayout
 title: "BYE ABU DHABI \U0001F30E"
 colors: colors-a
-date: '2024-10-13'
+date: '2024-10-01'
 author: content/data/team/doris-soto.json
 excerpt: "ONE LAST TIME IN ABU DHABI\U0001F44B"
 featuredImage:
