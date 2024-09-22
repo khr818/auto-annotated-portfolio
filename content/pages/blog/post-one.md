@@ -4,7 +4,7 @@ title: ABOUT TAI
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: TAI - THE ABSOLUTE INFINITY BY KHR
 featuredImage:
   type: ImageBlock
   url: /images/Absolute_Infinity.webp
