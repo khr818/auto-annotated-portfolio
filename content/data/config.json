@@ -41,14 +41,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "RAMYA TRAVELS",
+                "label": "HARSHAN RAGHAV K",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mhdpa.km.2@gmail.com",
+                "label": "BLOG",
+                "url": "/blog",
                 "altText": ""
             },
             {
@@ -59,19 +59,19 @@
             },
             {
                 "type": "Link",
-                "label": "INFO WEB",
-                "url": "mhdapkm.netlify.app",
+                "label": "TAI - GROUPS",
+                "url": "tai-groups.netlify.app/",
                 "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "97884142452",
+            "phoneNumber": "+91 7358102784",
             "phoneAltText": "My phone number",
-            "email": "mhdpa.km.2@gmail.com",
+            "email": "kharshanraghav@hotmail.com",
             "emailAltText": "My email",
-            "address": "vinayakar kovik,srambi,meenaksipuram-678533",
+            "address": "MV26+JGJ VINAYAGAR, Kovil Kadu Rd, Srambi, Moolathara, Kerala 678533",
             "addressAltText": "My address"
         },
         "copyrightText": "POWERED BY KHR\n",
