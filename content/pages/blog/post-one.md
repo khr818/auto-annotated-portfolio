@@ -108,11 +108,14 @@ bottomSections:
       text:
         textAlign: left
 ---
-# ABOUT TAI 
+# ABOUT TAI
 
 > “TAI IS A GROUP WHERE WE ARE THE BEST TEAM WHO'S FRIENDSHIP IS BEYOND ANYTHING JUST LIKE THE NAME - **T**he **A**bsolute **I**nfinity.”
 
-     we are just not a team we are a group which is relater to friendship. no one can break our bond we are a blockchain 
+```
+ we are just not a team we are a group which is relater to friendship. no one can break our bond we are a blockchain 
+```
 
->  "OUR FRIENDSHIP IS BEYOND THE LIMIT"
+> "OUR FRIENDSHIP IS BEYOND THE LIMIT"
 
+TO JOIN OUR GROUP : CONTACT ME!
